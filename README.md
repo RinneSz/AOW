@@ -1,4 +1,4 @@
-# AOW-Autoregressive Ranking Optimization
+# AOW-Autoregressive Out-of-distribution Watermarking
 
 Implementation for [Watermarking Recommender Systems](https://arxiv.org/pdf/2407.21034), CIKM24.
 
